@@ -22,5 +22,7 @@ const leapYears = function(year) {
     }
 };
 
+//Their solution is a lot cleaner but essentially the same thing condensed into "if && or"
+
 // Do not edit below this line
 module.exports = leapYears;
